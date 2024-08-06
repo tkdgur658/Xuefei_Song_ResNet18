@@ -28,6 +28,6 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `GONet.py`: Python script file, containing the PyTorch implementation of the GONet
-- `GONet.png`: Figure file for network block
+- `(Xuefei_Song_ResNet18.py`: Python script file, containing the PyTorch implementation of the Song's ResNet
+- `Song_ResNet.png`: Figure file for network
 - `README.md`: Markdown file explaining the model source code
